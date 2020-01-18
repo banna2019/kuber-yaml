@@ -1,1 +1,1 @@
-# kuber-yaml
+# kubernetes-yaml
